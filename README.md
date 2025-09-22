@@ -1,10 +1,10 @@
 # RA1-Prolog
 
-**Instituição:** <PUCPR>
+**Instituição:** PUCPR
 
-**Disciplina:** <Programação Lógica e Funcional>
+**Disciplina:** Programação Lógica e Funcional
 
-**Professor:** <Frank Coelho de Alcantara>
+**Professor:** Frank Coelho de Alcantara
 
 **Alunos:**
 - Aluno 1 - `Julia Machado Kociolek`
