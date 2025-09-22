@@ -1,4 +1,4 @@
-# RA1-Prolog
+# Sistema Especialista para Recomendação de Trilha Acadêmica
 
 **Instituição:** PUCPR
 
