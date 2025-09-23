@@ -65,24 +65,24 @@ perfil(engenharia_de_qualidade, ferramentas_integracao, 4).
 % Perguntas (mapeamento pergunta(ID, 'Texto?', atributo))
 % Respostas esperadas: s (sim) / n (não) no sistema principal.
 % -------------------------
-pergunta(1,  'Você já programou diretamente em C para dispositivos pequenos (microcontroladores)?', linguagem_c_embarcada).
-pergunta(2,  'Tem interesse em arquitetura de software e boas práticas de engenharia?', arquitetura_software).
+pergunta(1,  'Voce ja programou diretamente em C para dispositivos pequenos (microcontroladores)?', linguagem_c_embarcada).
+pergunta(2,  'Tem interesse em arquitetura de software e boas praticas de engenharia?', arquitetura_software).
 pergunta(3,  'Gosta de trabalhar com modelagem 3D, animação ou efeitos visuais?', modelagem_3d).
-pergunta(4,  'Tem conhecimento básico de eletrônica (resistores, sensores, atuadores)?', eletronica_basica).
-pergunta(5,  'Se interessa por analisar sequências biológicas (DNA/RNA) ou dados experimentais?', analise_sequencias).
+pergunta(4,  'Tem conhecimento basico de eletronica (resistores, sensores, atuadores)?', eletronica_basica).
+pergunta(5,  'Se interessa por analisar sequencias biologicas (DNA/RNA) ou dados experimentais?', analise_sequencias).
 pergunta(6,  'Costuma usar ou quer aprender testes automatizados e frameworks de teste?', teste_automatizado).
-pergunta(7,  'Tem afinidade com matemática aplicada à geometria e álgebra linear?', matematica_geometrica).
-pergunta(8,  'Já trabalhou com plataformas em nuvem (deploy, armazenamento, IoT hub)?', plataformas_cloud).
-pergunta(9,  'Se interessa por otimização de desempenho em hardware (ex.: microcontrollers ou GPUs)?', desempenho_gpus).
-pergunta(10, 'Você conhece conceitos de integração contínua (CI) e entrega contínua (CD)?', ci_cd).
+pergunta(7,  'Tem afinidade com matematica aplicada a geometria e algebra linear?', matematica_geometrica).
+pergunta(8,  'Ja trabalhou com plataformas em nuvem (deploy, armazenamento, IoT hub)?', plataformas_cloud).
+pergunta(9,  'Se interessa por otimizacao de desempenho em hardware (ex.: microcontrollers ou GPUs)?', desempenho_gpus).
+pergunta(10, 'Voce conhece conceitos de integracao continua (CI) e entrega continua (CD)?', ci_cd).
 pergunta(11, 'Gosta de prototipar dispositivos com placas como Arduino/ESP/BeagleBone?', prototipagem_rapida).
-pergunta(12, 'Tem curiosidade por segurança em dispositivos restritos (hardening, autenticação)?', seguranca_embarcada).
-pergunta(13, 'Já lidou com análise estatística aplicada a dados experimentais ou científicos?', estatistica_aplicada).
-pergunta(14, 'Se interessa em revisar e melhorar a qualidade do código (code review)?', revisao_codigo).
-pergunta(15, 'Tem interesse em aprender a programar shaders ou pipeline gráfico?', shaders_programacao).
-pergunta(16, 'Prefere trabalhar com requisitos, processos e documentação de projetos?', engenharia_requisitos).
-pergunta(17, 'Você já utilizou bancos de dados específicos para genômica ou biologia?', bancos_de_dados_biologicos).
-pergunta(18, 'Se interessa por protocolos de comunicação (MQTT, CoAP, BLE, LoRa)?', protocolos_comunicacao).
-pergunta(19, 'Tem experiência com sensores, leitura/filtragem de sinais e aquisição de dados?', sensores_e_atuadores).
-pergunta(20, 'Gosta de definir métricas e indicadores para medir qualidade de software?', metricas_qualidade).
+pergunta(12, 'Tem curiosidade por seguranca em dispositivos restritos (hardening, autenticacao)?', seguranca_embarcada).
+pergunta(13, 'Ja lidou com analise estatistica aplicada a dados experimentais ou cientificos?', estatistica_aplicada).
+pergunta(14, 'Se interessa em revisar e melhorar a qualidade do codigo (code review)?', revisao_codigo).
+pergunta(15, 'Tem interesse em aprender a programar shaders ou pipeline grafico?', shaders_programacao).
+pergunta(16, 'Prefere trabalhar com requisitos, processos e documentacao de projetos?', engenharia_requisitos).
+pergunta(17, 'Voce ja utilizou bancos de dados especificos para genomica ou biologia?', bancos_de_dados_biologicos).
+pergunta(18, 'Se interessa por protocolos de comunicacao (MQTT, CoAP, BLE, LoRa)?', protocolos_comunicacao).
+pergunta(19, 'Tem experiencia com sensores, leitura/filtragem de sinais e aquisicao de dados?', sensores_e_atuadores).
+pergunta(20, 'Gosta de definir metricas e indicadores para medir qualidade de software?', metricas_qualidade).
 
